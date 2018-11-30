@@ -1,8 +1,11 @@
 Origin: karar Repo
-Label:  karar Repo
+Label: karar Repo
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: julioverne
+Architecture: iphoneos-arm
 Components: main
-Description:  karar Repo
+Description: julioverne's Tweaks
+MD5Sum:
+ 3e3a05b15c9586efc1f08aa41b8609cb 46984 Packages
+ 3bd3b61cbfa5ac6bffa1e9e08b4bb45e 7965 Packages.bz2
