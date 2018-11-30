@@ -1,11 +1,8 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: Mr.Bom's Repo
+Label: Mrbom's Official Repo
 Suite: stable
 Version: 1.0
-Codename: julioverne
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
-MD5Sum:
- 3e3a05b15c9586efc1f08aa41b8609cb 46984 Packages
- 3bd3b61cbfa5ac6bffa1e9e08b4bb45e 7965 Packages.bz2
+Description: (Cydia Description)
