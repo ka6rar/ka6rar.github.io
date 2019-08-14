@@ -1,18 +1,18 @@
-Package: com.julioverne.adblock
+Package: com.ka6rar
 Architecture: iphoneos-arm
 Version: 0.2~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
-Size: 10028
-MD5sum: 8b1b711f997e47707af1d3a30e305707
-SHA1: 0b04b74bb57a4aef287dfa423462a1a5
-SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
-SHA512: 04c6e4527c171c2009a371a11cf0457ff9d52cde14840ce4822b73d5118d5d09950a86e9b4104eef67127093c1ec39ce9bdf2c7969b3b0eef5ca3388a1767917
+Filename: ./debfiles/com.ka6rar.Y_Dagriri_FullPUBGHack_013
+Size: 5476
+MD5sum: 0e1af1561437f0b404c7cade2348e348
+SHA1: 2a2c64048150fe52c0662b8d400ab59c849cf915
+SHA256:e089f88f197f37df86b67e097667e00707cc9dc1afc614a2b9c00452c5b5efb6
+SHA512:7c74c335a2b63a46586217122494579a2730a9fc4494e7fca866f7c6deb50de09efd838f213af624bedb1bca4c7d3c90f8317fe3b3f8cb05734d79b09d669c41
 Homepage: http://twitter.com/kagag_gibar
 Description: ADs Blocker for Apps.. Note: may not load page or app crash.
 Name: ADs Blocker
-Author: julioverne
+Author: ka6rar
 Depiction: http://ka6rar.github.io/description.html?id=com.julioverne.adblock
 
