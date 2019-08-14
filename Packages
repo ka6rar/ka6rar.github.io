@@ -1,0 +1,15 @@
+
+Package: com.karar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: karar <email@gmail.com>
+Depends: <bundleids>
+Filename: karar.deb
+Size: 4096
+MD5sum: 8C606F0C05217AA2A20949091FE516F0
+SHA1: 44F945218A8F72E24AD69191BFEE4A89BB7E9BC0
+SHA256: 2D0CF4EA9DDC1D1BE3968C869DDD29BD850EAE37CCD9B35D100F72B7ACA62F8E
+Section: Teewks
+Description: this tweeks
+Author: karar <email@gmail.com>
+Name: karar
