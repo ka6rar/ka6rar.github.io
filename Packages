@@ -18,3 +18,23 @@ Author: ka6rar
 Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
 Depiction: http://ka6rar.github.io/description.html?id=com.julioverne.appstorenohistory
 
+
+Package: com.ka6rar.Y_Dagriri_FullPUBGHack_013
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, applist
+Filename: ./debfiles/com.ka6rar.Y_Dagriri_FullPUBGHack_013.deb
+Size: 30776
+MD5sum: 0e1af1561437f0b404c7cade2348e348
+SHA1: 2a2c64048150fe52c0662b8d400ab59c849cf915
+SHA256: e089f88f197f37df86b67e097667e00707cc9dc1afc614a2b9c00452c5b5efb6
+SHA512: 7c74c335a2b63a46586217122494579a2730a9fc4494e7fca866f7c6deb50de09efd838f213af624bedb1bca4c7d3c90f8317fe3b3f8cb05734d79b09d669c41
+Homepage: http://twitter.com/ijulioverne
+Description: Clean Updated Apps History
+Name: Appstore No History
+Author: ka6rar
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: http://ka6rar.github.io/description.html?id=com.julioverne.appstorenohistory
+
