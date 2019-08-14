@@ -1,15 +1,17 @@
-
-Package: com.karar
-Version: 0.0.2
+Package: jp.akusio.fortnitebypass
 Architecture: iphoneos-arm
-Maintainer: karar <email@gmail.com>
-Depends: <bundleids>
-Filename: karar.deb
-Size: 12946
-MD5sum: BEAE61ADA393C72CF92706D745982C5F
-SHA1: 976B0F8F4ADE06772B100046456A86D71E8CA2C5
-SHA256: 39020EA32EABED44588C298747349B010F860255BF4DD055D808FDF3DCE11EC8
-Section: Teewks
-Description: this tweeks
-Author: karar <email@gmail.com>
-Name: karar
+Version: 5.1.0
+Section: Tweaks
+Maintainer: akusio
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/jp.akusio.debypass_0.1.1_iphoneos-arm.deb
+Size: 2708
+MD5sum: C30A9D8E5894DB97F3068142067383E4
+SHA1: 03125E346546CCB319D2579B96CB4A1A43432ABE
+SHA256: 4ACE366C5EF5CE521888FE5E142999A6A9360349EE125E2E4B867BB9D246F0FA
+Description: fortnite jailbreak bypass
+Name: fortnite bypass
+Depiction: https://akusio.github.io/descriptions/fortnitebypass/index.html
+Author: akusio
+

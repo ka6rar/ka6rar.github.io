@@ -1,8 +1,11 @@
-Origin: karar's  Repo 
-Label: karar's Repo 
+Origin: karar Repo
+Label: karar Repo
 Suite: stable
-Version: 1.2
-Codename: ios
-Architectures: iphoneos-arm
+Version: 1.0
+Codename: karar
+Architecture: iphoneos-arm
 Components: main
-Description: CBloo's Repo 
+Description: karar's Tweaks
+MD5Sum:
+ A6D46E2C1A9C71C89200D44473D60BDD 538 Packages
+ 2A821D72BFA143789F657AC76D5C373E 396 Packages.bz2
