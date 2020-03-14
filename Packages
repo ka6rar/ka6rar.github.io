@@ -1,24 +1,4 @@
 
-Package: com.ka6rar.appstorenohistory
-Architecture: iphoneos-arm
-Version: 0.0~beta8
-Section: Tweaks
-Maintainer: Julio
-Depends: preferenceloader, mobilesubstrate, applist
-Filename: ./debfiles/com.ka6rar.appstorenohistory_0.0~beta8_iphoneos-arm.deb
-Size: 30776
-MD5sum: 87a291c667022ea14f3afd9461459a57
-SHA1: 0d35a7e60c92c251252a05ac6e3c70a587084ca5
-SHA256: 1f6fec8628519529f460404452806e7d0e8fd0d7a53aa4c0145b97435884483d
-SHA512: caac734875afc2a187ad4dcf31e53df8bd9c4afac428a3d5251494330ea2a8c02bd0cababc2435597e9274822bb79a54596d6021d5386839adf6268c55576aea
-Homepage: http://twitter.com/ijulioverne
-Description: Clean Updated Apps History
-Name: Appstore No History
-Author: ka6rar
-Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
-Depiction: http://ka6rar.github.io/description.html?id=com.julioverne.appstorenohistory
-
-
 Package: com.karar.vpnproxymaster
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -36,5 +16,5 @@ Description: Clean Updated Apps History
 Name: VPN Proxy Master
 Author: karar jabr
 Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
-Depiction: http://ka6rar.github.io/description.html?id=com.julioverne.appstorenohistory
+Depiction: http://ka6rar.github.io/description.html?id=com.karar.vpnproxymaster
 
