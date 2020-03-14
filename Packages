@@ -5,7 +5,7 @@ Version: 1.1.0
 Section: Tweaks Hack
 Maintainer: karar jabr
 Depends: preferenceloader, mobilesubstrate, applist
-Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-62+debug_iphoneos-arm.deb
+Filename: ./debfiles/com.karar.vpnproxymaster_1.1.0-62+debug_iphoneos-arm.deb
 Size: 28102
 MD5sum: f120096900cf339e5f7cd1f23ca18660
 SHA1: e347a094834e80c9e59808461ec7d73318b78001
