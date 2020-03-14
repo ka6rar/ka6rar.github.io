@@ -47,7 +47,12 @@
 			<label>Follow Me</label>
 		</a>
 	</li>
-	
+		<li>
+		<a href="https://twitter.com/karar_gibar" target="_blank">
+			<img class="icon" src="twitter.png"/>
+			<label>Follow Me</label>
+		</a>
+	</li>
 </ul>
 <p style="text-align:center;">karar jabr © 2020</p>
 </body></html>
