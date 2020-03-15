@@ -1,43 +1,82 @@
 <!DOCTYPE html>
-<html><head>
-<title>Description</title>
-<link rel='stylesheet' type='text/css' href='ios7.css'/>
-<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<html lang="en">
+<head>
+	<title>karar's Repo</title>
+	<noscript>
+		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
+	</noscript>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=46545663394"></script>
-<body onload="loadPackageInfo();loadRecentUpdates();">
-<span id="showAddRepo_" hidden><h2>karar jabr</h2><ul><li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://julioverne.github.io/"><img class="icon" src="cydia7.png"/><label>Open Cydia</label></a></li></ul></span>
-<p style="text-align:center;" id="showAddRepoUrl_" hidden></p>
-<span id="tweakStatusInfo"><h2></h2><ul style="background:#c6e8ff"><center><li><p id="errorInfo">Loading Description...</p></li></center></ul></span>
-<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p id="desc_short"></p></li></center></ul></span>
-<span id="compatitle_" hidden><ul style="background:#00ff24"><center><li><p><i>Compatible with <span id="compatitle"></span></i></p></li></center></ul></span>
-<p style="text-align:center;font-size:10px;" id="compatitle_"><span id="your_ios" hidden></span></p>
-<span id="warning_" hidden><ul style="background:#ffff80"><center><li><p><span id="warning"></span></p></li></center></ul></span>
-<span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
-<span id="screenshot_" hidden><h2>Screenshot's</h2><ul><li><p id="screenshot"></p></li></ul></span>
+<script src="description.js?_=e"></script>
+<body onload="loadPackageInfo();loadPackages();">
+	<main id="content">
+		<span id="showAddRepo_" hidden>
+			<h2 role="header">karar's Repo</h2>
+			<ul>
+				<li class="has-icon">
+					<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://julioverne.github.io/" role="button" id="open_cydia">
+						<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
+						<label>Open Cydia</label>
+					</a>
+				</li>
+			</ul>
+			<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://ka6rar.github.io/</p>
+		</span>
+		<noscript>
+			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
+		</noscript>
+		<span id="tweakStatusInfo"><h2></h2><ul style="background:#c6e8ff"><center><li><p id="errorInfo">Loading Description...</p></li></center></ul></span>
+		<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p id="desc_short"></p></li></center></ul></span>
+		<span id="compatitle_" hidden>
+			<ul style="background:#00ff24"><center><li><p><i>Compatible with <span id="compatitle"></span></i></p></li></center></ul>
+			<p style="text-align:center;font-size:10px;" role="footer" id="neo" class="cur_ios"></p>
+		</span>
+		<span id="warning_" hidden><ul style="background:#ffff80"><center><li><p><span id="warning"></span></p></li></center></ul></span>
+		<span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
+		<span id="screenshot_" hidden><h2>Screenshot's</h2><ul><li><p id="screenshot"></p></li></ul></span>
+		<span id="is_open_source_" hidden><h2 id="name" hidden></h2><ul style="background:#c6e8ff"><center><li><p>This Package Is Open Source</p></li></center></ul></span>
+		<span id="changelog_" hidden><h2>Changelog</h2><ul><li><p id="changelog"></p></li></ul></span>
+		<span id="pkg_" hidden><h2 role="header">Package Info</h2><ul>
+			<li><p>Name<span class="value" id="pkg_name">-</span></p></li>
+			<li><p>Identifier<span class="value" id="pkg_id">-</span></p></li>
+			<li><p>Section<span class="value" id="pkg_section">-</span></p></li>
+			<li><p>Version<span class="value" id="pkg_version">-</span></p></li>
+			<li><p>Size<span class="value" id="pkg_size">-</span></p></li>
+			<li><p>Updated<span class="value" id="pkg_time">-</span></p></li>
+			</ul>
+		</span>
+		<h2 role="header">Social</h2>
+		<ul>
 
-<span id="changelog_" hidden><h2>Changelog</h2><ul><li><p id="changelog"></p></li></ul></span>
-<!--h2>Help Us</h2>
-<ul>
-	<li>
-		<a href="https://www.paypal.me/julioverne" target="_blank">
-			<img class="icon" src="pp.png"/>
-			<label>Donate</label>
-		</a>
-	</li>
-</ul-->
-<h2>Social</h2>
-<ul>
-
-	<li>
-		<a href="https://twitter.com/karar_gibar" target="_blank">
-			<img class="icon" src="twitter.png"/>
-			<label>Follow Me</label>
-		</a>
-	</li>
-</ul>
-
-<p style="text-align:center;">karar jabr © 2020</p>
-</body></html>
+	>
+			</li>
+			<li class="has-icon">
+				<a href="https://twitter.com/iJulioVerne" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
+					<label>Follow karar</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://www.patreon.com/julioverne" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="patreon.png" alt="" srcset="patreon.png 2x, patreon.png 3x" class="icon"/>
+					<label>Patreon (Support)</label>
+				</a>
+			</li>
+		</ul>
+		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
+		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
+		<h2 role="header">Theme</h2>
+		<ul>
+			<li>
+				<a onclick="toogleTheme();" role="button">
+					<p>Change Theme</p>
+				</a>
+			</li>
+		</ul>
+	</main>
+	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">karar © 2020</p>
+</body>
+</html>
