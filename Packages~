@@ -4,15 +4,14 @@ Version: 1.0.0
 Section: Tweaks 
 Maintainer: karar jabr
 Depends: mobilesubstrate
-Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-65+debug_iphoneos-arm.deb
-Size: 10028
-MD5sum: 07f04363ba551a9198f3b035c6835f7e
-SHA1: 2caf32aba67c97fac0995d6514e115d1eb5da4cc
-SHA256: 7ea9e6de3273e587eafdb27105288c344a68e6cebe2598e6c722ff6a92760d2c
-SHA512:b73430fb221fc2281546e98075e5c539d75a2a8129a91a7097884d73b469c89c57c0a3becf7c65c2d22f56205793f8e78fe6b74731e3df5a36f98aeb34164959
-Homepage: http://twitter.com/karar_jabr
-Description: open all servers
-Name: VPN Proxy Master 
-Author: karar jabr
-Depiction: http://ka6rar.github.io/description.html?id=com.karar.vpnproxymaster
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
+Size: 37638
+MD5sum: f21876fe1b3208f2793622c8d1d54708
+SHA1: da8e10248866198d2dc5409cfaf2152b85099b66
+SHA256: 591467d8991ca98ab02a6bc1ec7c2b6f52c658da386c9124500aa6f60954fbb7
+SHA512: 97336ad7c42e17de6060603fcba77c81ab069fe5265d0223cd009d02836a1e7bd0a0b1d51f3c9d892da09ba2692a4772777dcc097ce3e2a2fce64d709e7b2e32
 
+Description: Open All Serves
+Name: VPN Proxy Master
+Author: karar jabr
+Depiction: http://julioverne.github.io/description.html?id=com.karar.vpnproxymaster

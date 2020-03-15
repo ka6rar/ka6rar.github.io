@@ -1,1 +1,19 @@
-[{"name":"VPN Proxy Master","time":1584122992,"size":28120,"version":"1.0.0","package":"com.karar.vpnproxymaster","section":"Tweaks Hack"}]
+[{"package":"om.karar.vpnproxymaster","section":"Tweaks","version":"1.0.0","size":28124,"name":"VPN Proxy Master","time":1583675134}]
+
+Package: com.karar.vpnproxymaster
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks 
+Maintainer: karar jabr
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
+Size: 37638
+MD5sum: f21876fe1b3208f2793622c8d1d54708
+SHA1: da8e10248866198d2dc5409cfaf2152b85099b66
+SHA256: 591467d8991ca98ab02a6bc1ec7c2b6f52c658da386c9124500aa6f60954fbb7
+SHA512: 97336ad7c42e17de6060603fcba77c81ab069fe5265d0223cd009d02836a1e7bd0a0b1d51f3c9d892da09ba2692a4772777dcc097ce3e2a2fce64d709e7b2e32
+
+Description: Open All Serves
+Name: VPN Proxy Master
+Author: karar jabr
+Depiction: http://julioverne.github.io/description.html?id=com.karar.vpnproxymaster
