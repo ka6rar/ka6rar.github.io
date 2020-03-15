@@ -1,11 +1,11 @@
-Package: com.karar.vpnproxymaster
+Package:com.karar.vpnproxymaster
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks Hack
 Maintainer: karar jabr
 Depends: preferenceloader, mobilesubstrate, applist
 Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-64+debug_iphoneos-arm.deb
-Size: 28124
+Size: 28126
 MD5sum: 6e7160b2b80b8e8167da05433e99a908
 SHA1: 420cdac182aed21cbf9200ff75b43437bdeffeb5
 SHA256: aac1a427162c79d2af111f6399bd3466227f86c3ad7ffe6a535dad7784fa7ce5
@@ -14,6 +14,6 @@ Homepage: http://twitter.com/karar_gibar
 Description: This a Tweak Open Vip Apps VPN Proxy Master
 Name: VPN Proxy Master
 Author: karar jabr
-Icon: file:///Library/PreferenceBundles/VPNMaster.bundle/icon@1x.png
+Icon: file:///Library/PreferenceBundles/VPNMaster.bundle/icon@2x.png
 Depiction: http://ka6rar.github.io/description.html?id=com.karar.vpnproxymaster
 
