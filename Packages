@@ -1,18 +1,16 @@
-Package: com.karar.vpnproxymaster
+Package: com.julioverne.albumhider
 Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks 
-Maintainer: karar jabr
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-65+debug_iphoneos-arm.deb
-Size: 10028
-MD5sum: 07f04363ba551a9198f3b035c6835f7e
-SHA1: 2caf32aba67c97fac0995d6514e115d1eb5da4cc
-SHA256: 7ea9e6de3273e587eafdb27105288c344a68e6cebe2598e6c722ff6a92760d2c
-SHA512:b73430fb221fc2281546e98075e5c539d75a2a8129a91a7097884d73b469c89c57c0a3becf7c65c2d22f56205793f8e78fe6b74731e3df5a36f98aeb34164959
-Homepage: http://twitter.com/karar_jabr
-Description: open all servers
-Name: VPN Proxy Master 
-Author: karar jabr
-Depiction: http://ka6rar.github.io/description.html?id=com.karar.vpnproxymaster
-
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
+Size: 37638
+MD5sum: c9238027c1aa1f41d389dfeee9ac1036
+SHA1: 8bcc3dcef38e3416f5e15ae548fb11ba35735207
+SHA256: 1064b1f6d04410bae4feaf34ce1de3055fd3a8af2b38644af9a1cb1f7a2ce493
+SHA512: df9e4c91938e6167ce2c9d77358967561b93e6b7041a5ecdffbe3a602e12658e13eec6f5271e078ae7e59f4adf3eccd6e586466ef8fcb25c85344d4afa76e983
+Description: Hide Album's On Photo App
+Name: AlbumHider
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumhider
