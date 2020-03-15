@@ -54,17 +54,13 @@
 	>
 			</li>
 			<li class="has-icon">
-				<a href="https://twitter.com/iJulioVerne" target="_blank" role="button">
+				<a href="https://twitter.com/karar_gibar" target="_blank" role="button">
 					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
 					<label>Follow karar</label>
 				</a>
 			</li>
-			<li class="has-icon">
-				<a href="https://www.patreon.com/julioverne" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="patreon.png" alt="" srcset="patreon.png 2x, patreon.png 3x" class="icon"/>
-					<label>Patreon (Support)</label>
-				</a>
-			</li>
+
+
 		</ul>
 		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
 		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
