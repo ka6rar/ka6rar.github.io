@@ -1,17 +1,17 @@
-Package: com.karar.vpnproxymaster
+Package: com.onn.karar
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks 
 Maintainer: karar jabr
 Depends: mobilesubstrate
-Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-66+debug_iphoneos-arm.deb
+Filename: ./debfiles/com.onn.karar_0.0.1-1+debug_iphoneos-arm.deb
 Size: 28124
-MD5sum: f21876fe1b3208f2793622c8d1d54708
-SHA1: da8e10248866198d2dc5409cfaf2152b85099b66
-SHA256: 591467d8991ca98ab02a6bc1ec7c2b6f52c658da386c9124500aa6f60954fbb7
-SHA512: 97336ad7c42e17de6060603fcba77c81ab069fe5265d0223cd009d02836a1e7bd0a0b1d51f3c9d892da09ba2692a4772777dcc097ce3e2a2fce64d709e7b2e32
+MD5sum: 99d6339f4ce12436b7181785a87f924c
+SHA1: 821d3f092a36751bd57e3525243031d62fdff99b
+SHA256: 21b3916d721057d00523a11c0e36b2fc56fb1b591a4ab724f88902169f1e41bf
+SHA512: 0f013299cadbcdc8342ae791a91a471bfc9680aa23181f969c3025358fdf8c71ad5dab072f7c254050f5839f41e3cf78de716f16fcfb5b5d55b210d63ddcba91
 
 Description: Open All Serves
 Name: VPN Proxy Master
 Author: karar jabr
-Depiction: http://ka6rar.github.io/description.html?id=com.karar.vpnproxymaster
+Depiction: http://ka6rar.github.io/description.html?id=com.onn.karar
