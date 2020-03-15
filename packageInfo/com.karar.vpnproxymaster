@@ -1,9 +1,9 @@
 {
 	"name": "VPN Proxy Master",
-	"desc_short": "",
-	"desc_long": "Features:<p>- Remove Ads App<br><p>-Open Feature VIP .",
-	"compatitle": "iOS 11, 13",
-	"changelog": "<strong>1.0.0</strong><br>+ Update Hider;<br><strong>1.0.0</strong><br>+ Initial Release<br>",
+	"desc_short": "open all servers",
+	"desc_long": null,
+	"compatitle": "VPN Proxy Master",
+	"changelog": "<strong>1.0.0</strong><br> - Reamove All Ads.<br><strong>0.0~beta1</strong><br>- Open All Server     <br><strong>1.0.0</strong><br>+ Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }

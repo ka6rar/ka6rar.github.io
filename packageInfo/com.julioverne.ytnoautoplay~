@@ -1,0 +1,9 @@
+{
+	"name": "VPN Proxy Master",
+	"desc_short": "open all servers",
+	"desc_long": null,
+	"compatitle": "VPN Proxy Master",
+	"changelog": "<strong>1.0.0</strong><br> - Reamove All Ads.<br><strong>0.0~beta1</strong><br>- Open All Server <br><strong>1.0.0</strong><br>+ Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
