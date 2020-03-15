@@ -1,15 +1,15 @@
 Package: com.karar.vpnproxymaster
 Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Tweaks Hack
-Maintainer: Julio
+Section: Tweaks 
+Maintainer: karar jabr
 Depends: mobilesubstrate
 Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-65+debug_iphoneos-arm.deb
 Size: 10028
 MD5sum: 07f04363ba551a9198f3b035c6835f7e
 SHA1: 2caf32aba67c97fac0995d6514e115d1eb5da4cc
 SHA256: 7ea9e6de3273e587eafdb27105288c344a68e6cebe2598e6c722ff6a92760d2c
-SHA512: b73430fb221fc2281546e98075e5c539d75a2a8129a91a7097884d73b469c89c57c0a3becf7c65c2d22f56205793f8e78fe6b74731e3df5a36f98aeb34164959
+SHA512:b73430fb221fc2281546e98075e5c539d75a2a8129a91a7097884d73b469c89c57c0a3becf7c65c2d22f56205793f8e78fe6b74731e3df5a36f98aeb34164959
 Homepage: http://twitter.com/karar_jabr
 Description: open all servers
 Name: VPN Proxy Master 
