@@ -1,8 +1,8 @@
 Package: com.karar.vpnproxymaster
 Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Tweaks
-Maintainer: Julio
+Section: Tweaks Hack
+Maintainer: karar
 Depends: mobilesubstrate
 Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-65+debug_iphoneos-arm.deb
 Size: 10028
