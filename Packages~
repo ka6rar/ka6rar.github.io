@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: karar jabr
 Depends: mobilesubstrate
 Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
-Size: 37638
+Size: 28124
 MD5sum: f21876fe1b3208f2793622c8d1d54708
 SHA1: da8e10248866198d2dc5409cfaf2152b85099b66
 SHA256: 591467d8991ca98ab02a6bc1ec7c2b6f52c658da386c9124500aa6f60954fbb7

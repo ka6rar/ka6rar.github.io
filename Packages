@@ -4,7 +4,7 @@ Version: 1.0.0
 Section: Tweaks 
 Maintainer: karar jabr
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.albumhider_0.0~beta2_iphoneos-arm.deb
+Filename: ./debfiles/com.karar.vpnproxymaster_1.0.0-66+debug_iphoneos-arm.deb
 Size: 28124
 MD5sum: f21876fe1b3208f2793622c8d1d54708
 SHA1: da8e10248866198d2dc5409cfaf2152b85099b66
