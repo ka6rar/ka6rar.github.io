@@ -13,7 +13,7 @@
 <script src="description.js?_=d"></script>
 <body onload="loadPackages();">
 	<main id="content">
-		<h2 role="header">julioverne's Repo</h2>
+		<h2 role="header">karar's Repo</h2>
 		<ul>
 			<li class="has-icon">
 				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ka6rar.github.io/" role="button">
@@ -22,7 +22,6 @@
 				</a>
 			</li>
 		</ul>
-		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://julioverne.github.io/</p>
 		<noscript>
 			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
 		</noscript>
@@ -45,7 +44,7 @@
 			<li class="has-icon">
 				<a href="https://twitter.com/karar_gibar" target="_blank" role="button">
 					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
-					<label>Follow julioverne</label>
+					<label>Follow karar</label>
 				</a>
 			</li>
 
@@ -59,6 +58,6 @@
 			</li>
 		</ul>
 	</main>
-	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">julioverne © 2020</p>
+	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">karar © 2020</p>
 </body>
 </html>
