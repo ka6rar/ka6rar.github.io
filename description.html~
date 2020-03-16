@@ -29,10 +29,10 @@
 			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
 		</noscript>
 		<span id="tweakStatusInfo"><h2></h2><ul style=""><center><li><p id="errorInfo">Loading Description...</p></li></center></ul></span>
-		<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:"><center><li><p id="desc_short"></p></li></center></ul></span>
+		<span id="desc_short_" hidden><h2 id="name" hidden></h2><ul style="background:"><center><li><p id="desc_short" style="color:green"></p></li></center></ul></span>
 		<span id="compatitle_" hidden>
-			<ul style="background:"><center><li><p><i>Compatible with <span id="compatitle"></span></i></p></li></center></ul>
-			<p style="text-align:center;font-size:10px;color:green" role="footer" id="neo" class="cur_ios"></p>
+			<ul style="color:green;font-weight: bold;"><center><li><p><i>Compatible with <span id="compatitle"></span></i></p></li></center></ul>
+			<p style="text-align:center;font-size:10px;color:green;  font-weight: bold;" role="footer" id="neo" class="cur_ios"></p>
 		</span>
 		<span id="warning_" hidden><ul style="background:#ffff80"><center><li><p><span id="warning"></span></p></li></center></ul></span>
 		<span id="desc_long_" hidden><h2>Description</h2><ul><li><p id="desc_long"></p></li></ul></span>
